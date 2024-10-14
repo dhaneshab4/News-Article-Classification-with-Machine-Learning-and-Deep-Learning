@@ -1,3 +1,4 @@
+
 # News-Article-Classification-with-Machine-Learning-and-Deep-Learning
 
 This project implements a machine learning pipeline to classify news articles into different topical categories. It uses various machine learning models like Logistic Regression, K-Nearest Neighbors (K-NN), and a Deep Learning Model (LSTM). The key steps include data understanding, preprocessing, modeling, and evaluation. The goal is to achieve high accuracy in classifying articles based on the text data provided.
@@ -47,3 +48,11 @@ The training process will save the models into .pkl and .h5 formats for reproduc
 **5. Evaluation:**
 
 Evaluate the performance of each model on the validation and test datasets by executing the evaluation section in the notebook. The results include accuracy, precision, recall, and F1-score.
+
+**6. screenshots:**
+
+![download (5)](https://github.com/user-attachments/assets/0457d6fb-39cf-4fa2-ba5b-ef32ca18fee8)
+
+![download (6)](https://github.com/user-attachments/assets/b435b619-5870-4379-9ea0-be26fb1ae647)
+
+![download (7)](https://github.com/user-attachments/assets/6289342f-63ba-4493-8e28-4a8fde0253bd)

@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 **3. Load and Preprocess Data:**
 
-Upload the 11.csv Dataset to Google Drive, Preprocess the data by running the Jupyter Notebook ML_Assignment.ipynb. The notebook loads the dataset, splits it into training/validation/test sets, and preprocesses it for model training.
+Upload the [11.csv](https://github.com/dhaneshab4/News-Article-Classification-with-Machine-Learning-and-Deep-Learning/blob/main/11.csv) Dataset to Google Drive, Preprocess the data by running the Jupyter Notebook ML_Assignment.ipynb. The notebook loads the dataset, splits it into training/validation/test sets, and preprocesses it for model training.
 
 **4. Model Training:**
 
